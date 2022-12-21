@@ -1,18 +1,14 @@
-**Day 1 - Working with Variables in Python to Manage Data**
----
 # Day 1 - Working with Variables in Python to Manage Data
 
-<!-- ## Exercise
+## Exercise
 
-- https://repl.it/@lenargasimov/day-1-1-exercise
-- https://repl.it/@lenargasimov/day-1-2-exercise
-- https://repl.it/@lenargasimov/day-1-3-exercise
-- https://repl.it/@lenargasimov/day-1-4-exercise
+- https://replit.com/@NaeimehNajafiza/day-1-printing-start#main.py
+- https://replit.com/@NaeimehNajafiza/day-1-2-exercise#main.py
+- https://replit.com/@NaeimehNajafiza/day-1-3-exercise#main.py
+- https://replit.com/@NaeimehNajafiza/day-1-variables-start#main.py
 
 ## Band Name Generator
 
 ![band name generator](band_name_generator.gif)
 
-https://repl.it/@lenargasimov/band-name-generator-end
-
-[First exercise](https://replit.com/@NaeimehNajafiza/day-1-printing-start#main.py) -->
+https://replit.com/@NaeimehNajafiza/band-name-generator-start#main.py
