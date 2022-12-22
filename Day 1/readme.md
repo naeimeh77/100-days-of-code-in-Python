@@ -9,6 +9,6 @@
 
 ## Band Name Generator
 
-![band name generator](band_name_generator.gif)
+![band name generator](day_01_gif.gif)
 
 https://replit.com/@NaeimehNajafiza/band-name-generator-start#main.py
