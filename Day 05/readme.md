@@ -5,7 +5,7 @@
 - https://replit.com/@NaeimehNajafiza/day-5-start#main.py
 - https://replit.com/@NaeimehNajafiza/day-5-2-exercise#main.py
 
-## Tip Calculator
+## Password Generator
 
 ![Password Generator](day_05_gif.gif)
 
