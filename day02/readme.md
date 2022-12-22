@@ -7,6 +7,6 @@
 
 ## Tip Calculator
 
-![Tip calculator](day_01_gif.gif)
+![Tip Calculator](day_02_gif.gif)
 
 https://replit.com/@NaeimehNajafiza/tip-calculator-start#main.py
