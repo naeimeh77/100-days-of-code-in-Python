@@ -11,11 +11,11 @@ Throughout the bootcamp, I faced many challenges and learned a lot about Python 
 Repository contents
 This repository contains the following directories and files:
 
-code: This directory contains the code that I wrote throughout the bootcamp, organized by topic. Each subdirectory contains code for a specific topic or project.
+**code**: This directory contains the code that I wrote throughout the bootcamp, organized by topic. Each subdirectory contains code for a specific topic or project.
 
-notes: This directory contains my notes from each day of the bootcamp, organized by topic. Each file contains notes for a specific topic or project.
+**notes**: This directory contains my notes from each day of the bootcamp, organized by topic. Each file contains notes for a specific topic or project.
 
-readme.md: This file contains an overview of the repository and its contents.
+**readme.md**: This file contains an overview of the repository and its contents. ***To help illustrate the function of the code, I included a gif created with LICEcap. This gif provides a visual representation of how the code operates, allowing you to easily understand its behavior by simply watching it.***
 
 Challenges
 Throughout the bootcamp, I faced a number of challenges that helped me to improve my skills and understanding of Python. Some of the challenges that I faced included:
