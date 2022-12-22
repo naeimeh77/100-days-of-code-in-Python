@@ -1,4 +1,4 @@
-# 100-days-of-code-in-Python
+# 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Udemy)
 
 Welcome to my 100-day bootcamp Python repository! This is my journey while taking the course of 100 days of code in Python on Udemy platform. 
  This repository contains the code and notes from my journey to becoming a Python developer.
