@@ -6,7 +6,7 @@
 - https://replit.com/@NaeimehNajafiza/day-4-1-exercise#main.py
 - https://replit.com/@NaeimehNajafiza/day-4-1-exercise-1#main.py
 
-## Tip Calculator
+## Rock-Paper-Scissors
 
 ![Rock-Paper-Scissors](day_04_gif.gif)
 
