@@ -1,4 +1,4 @@
-# Day 5 - CoffeeMachine
+# Day 15 - Intermediate - Local Development Environment Setup & the Coffee Machine
 
 ![CoffeeMachine](day_15_gif.gif)
 
