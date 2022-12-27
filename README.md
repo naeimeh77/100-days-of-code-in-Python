@@ -17,7 +17,7 @@ This repository contains the following directories and files:
 
 **readme.md**: This file contains an overview of the repository and its contents. ***To help illustrate the function of the code, I included a gif created with LICEcap. This gif provides a visual representation of how the code operates, allowing you to easily understand its behavior by simply watching it.***
 
-Challenges
+Challenges:
 Throughout the bootcamp, I faced a number of challenges that helped me to improve my skills and understanding of Python. Some of the challenges that I faced included:
 
 Understanding complex data structures and algorithms: Some of the topics covered in the bootcamp, such as trees and graphs, were new to me and required a lot of practice to understand.
